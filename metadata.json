@@ -1,0 +1,10 @@
+{
+  "name": "RasaNusantara",
+  "description": "Platform resep masakan Nusantara terlengkap dengan fitur pencarian bahan, meal planner, dan komunitas berbagi resep.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
